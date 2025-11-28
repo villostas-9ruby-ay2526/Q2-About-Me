@@ -1,0 +1,25 @@
+body{
+    background-image: url(body.jpg);
+
+}
+
+hero-image{
+    background-image: url(blue-burst.jpg);
+    width: 180%;
+    background-repeat: no-repeat;
+    background-position: auto;
+}
+
+.box{
+    box-shadow: 8px 13px 5px 0px rgba(158,204,224,0.75);
+    -webkit-box-shadow: 8px 13px 5px 0px rgba(158,204,224,0.75);
+    -moz-box-shadow: 8px 13px 5px 0px rgba(158,204,224,0.75);
+    padding: 15px
+
+}
+
+.container{
+    background-color:deepskyblue;
+    border: groove;
+
+}
